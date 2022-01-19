@@ -1,6 +1,6 @@
-# msgwhatsapp
+# Msgwhatsapp
 
-A new Flutter project.
+Send Whatsapp message to any phone number without saving number of others.
 
 ## Getting Started
 
